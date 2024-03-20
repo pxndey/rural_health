@@ -9,6 +9,7 @@ A collection of machine learning/ deep learning models trained/used for my proje
 - [Heart Disease Detection](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - Lung Cancer Detection using [Smoker Data](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer) and [Lung CT Images](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images)
 - [Pneumonia Detection](https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images)
+- [Skin Cancer Detection](https://www.kaggle.com/datasets/kylegraupe/skin-cancer-binary-classification-dataset)
 
 <center>The Technologies used are:</center>
 
